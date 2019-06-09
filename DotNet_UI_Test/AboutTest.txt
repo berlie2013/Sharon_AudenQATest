@@ -1,0 +1,29 @@
+- This project is written in C# on .NET IDE
+- Behaviour Driven Development (BDD) specflow is used to write tests
+- Page Object model is uses as framework, as this gives more readability, maintainability, code reusability.
+
+
+The solution consits of 4 sub-projects
+ - Page (All page elements and its methods)
+ - Driver (Driver actions)
+ - Common (shared methods and properties)
+ - Tests (Consists of feature files,Test steps)
+
+All tests are in one feature file. And used only one stepdefinition. I know there is much more i can improve in this in case of execution time.
+
+# The following required to run the test
+ 
+-- Visual studio
+ 
+Installed from nuget packages
+  - Nunit
+  - Selenium Webdriver
+  - Selenium Support  
+  - Specflow
+  - SpecFlow.Tools.MsBuild.Generation
+
+Extentions and updates:
+  - SpecFlow for visual studio 2017
+  - Nunit3 Test adapter
+
+All suggesions are welcome.

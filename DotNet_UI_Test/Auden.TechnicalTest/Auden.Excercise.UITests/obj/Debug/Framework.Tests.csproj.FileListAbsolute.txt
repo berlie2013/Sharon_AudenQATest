@@ -1,0 +1,390 @@
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\chromedriver.exe
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\nunit.engine.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\nunit.engine.api.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\wires-0.6.0-win.exe
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll.config
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\netstandard.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.AppContext.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Collections.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Console.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Data.Common.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Globalization.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.Pipes.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Linq.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Http.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Ping.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Requests.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Security.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.Sockets.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ObjectModel.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Reflection.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Resources.Reader.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Resources.Writer.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Claims.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.Principal.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Security.SecureString.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Thread.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Timer.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.ValueTuple.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\BoDi.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Gherkin.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\nunit.framework.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Utf8Json.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\WebDriver.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\BoDi.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\nunit.framework.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\nunit.framework.xml
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\Utf8Json.xml
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\bin\Debug\WebDriver.xml
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csprojAssemblyReference.cache
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CopyComplete
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.dll
+C:\Users\MichaelKatende\Desktop\DotNet_UI_Test\DotNet_UI_Test\Auden.Excercise.Framework\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.engine.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.engine.api.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\chromedriver.exe
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\wires-0.6.0-win.exe
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll.config
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\netstandard.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.AppContext.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Console.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Data.Common.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Pipes.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Http.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Ping.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Requests.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Security.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Sockets.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ObjectModel.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.Reader.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.Writer.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Claims.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Principal.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.SecureString.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Thread.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Timer.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ValueTuple.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\BoDi.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Gherkin.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Utf8Json.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\WebDriver.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\BoDi.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.xml
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Utf8Json.xml
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\WebDriver.xml
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csprojAssemblyReference.cache
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CopyComplete
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.dll
+C:\Users\berli\Desktop\AudenAutomationUI\DotNet_UI_Test\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.engine.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.engine.api.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\chromedriver.exe
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\wires-0.6.0-win.exe
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll.config
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.UITests.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\netstandard.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.AppContext.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Collections.Specialized.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Console.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Data.Common.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.Pipes.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Expressions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Parallel.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Linq.Queryable.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Http.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.NameResolution.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Ping.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Requests.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Security.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.Sockets.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Net.WebSockets.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ObjectModel.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.Reader.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Resources.Writer.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Handles.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Claims.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.Principal.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Security.SecureString.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Thread.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Timer.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.ValueTuple.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XDocument.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\BoDi.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Gherkin.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Utf8Json.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\WebDriver.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Framework.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Common.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Auden.Excercise.Webdriver.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\BoDi.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\nunit.framework.xml
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\Utf8Json.xml
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\bin\Debug\WebDriver.xml
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csprojAssemblyReference.cache
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CoreCompileInputs.cache
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Framework.Tests.csproj.CopyComplete
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.dll
+C:\Users\berli\Desktop\QA Test Automation_Auden\DotNet_UI_Test\Auden.TechnicalTest\Auden.Excercise.UITests\obj\Debug\Auden.Excercise.UITests.pdb

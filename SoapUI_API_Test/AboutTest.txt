@@ -1,0 +1,11 @@
+In this project i have used WSDL Address:http://currencyconverter.kowabunga.net/converter.asmx?WSDL
+Currency rate date used is : 2019-06-07
+
+Created a test suite which have the following
+ 1. USD to GBP converion (Script assertion is used to validate the conversion rate)
+ 2. Property Transfer - used to trasfer USD from request1 to request2
+ 3. GBP to USD conversion (Script assertion is used to validate the conversion rate)
+
+I have minmal knowledge in SoapUI as i have recently started leaning this API testing.
+I would like to learn more and improve my knowlege and skills
+
